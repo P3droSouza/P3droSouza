@@ -1,13 +1,12 @@
-<h1 align="center">Olá, eu sou Pedro Henrique!</h1>
-
-<table>
+<table align="center">
   <tr>
     <td valign="middle">
+      <h1>Olá, eu sou Pedro Henrique!</h1>
       <p>
         <strong>Estudante de Análise e Desenvolvimento de Sistemas</strong>
       </p>
     </td>
-    <td align="right" width="180">
+    <td valign="middle" align="right" width="180">
       <img
         height="120"
         src="https://media.tenor.com/92MplgQwb80AAAAM/cat-meme-wave-emoji.gif"
@@ -18,7 +17,6 @@
 </table>
 
 ---
-
 ## 👨‍💻 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em desenvolvimento de software e na aplicação da tecnologia para resolver problemas reais.
