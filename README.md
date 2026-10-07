@@ -61,6 +61,7 @@ Minha motivação vem da **descoberta de novas coisas, da curiosidade e do inter
     />
   </a>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
