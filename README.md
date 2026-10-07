@@ -61,3 +61,13 @@ Minha motivação vem da **descoberta de novas coisas, da curiosidade e do inter
     />
   </a>
 </p>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=P3droSouza&show_icons=true&theme=dark&ring_color=00FF00"
+    alt="P3droSouza GitHub Stats"
+  />
+</p>
